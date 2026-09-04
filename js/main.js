@@ -1,5 +1,5 @@
 /* =====================================================
-   PORTFOLIO JS — Juboraj Ahmed
+   PORTFOLIO JS — Ashraful Alam
    ===================================================== */
 
 'use strict';
@@ -298,4 +298,3 @@ style.textContent = `
 }
 `;
 document.head.appendChild(style);
-
