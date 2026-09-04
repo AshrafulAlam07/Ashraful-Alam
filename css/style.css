@@ -854,6 +854,10 @@ section {
   gap: 16px;
 }
 
+.lang-header:last-child {
+  margin-bottom: 0;
+}
+
 .lang-title h4 {
   font-size: 1.1rem;
   font-weight: 700;
